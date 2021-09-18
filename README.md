@@ -5,4 +5,7 @@ It is a Data analysis of airbnb in NewYork City.
 
 Source: [New York City Airbnb Dataset](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
 
+## Software used
+Tableau desktop
+
 📙 This code is only for assignent purpose, not for bussiness use.
