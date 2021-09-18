@@ -8,4 +8,4 @@ Source: [New York City Airbnb Dataset](https://www.kaggle.com/dgomonov/new-york-
 ## Software used
 Tableau desktop
 
-📙 This code is only for assignent purpose, not for bussiness use.
+📙 This is only for assignment purpose, not for business use.
